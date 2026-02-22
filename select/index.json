@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "よいまちカンターレ",
+  "base_artist": "コーロまちカド",
+  "createdAt": "2026-02-22T22:02:30.241058Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "よいまちカンターレ",
+      "artist": "コーロまちカド(シャミ子・桃・リリス・ミカン)/CV:小原好美・鬼頭明里・高橋未奈美・高柳知葉",
+      "has_synced": true,
+      "path": "select/01_よいまちカンターレ_コーロまちカド(シャミ子・桃・リリス・ミカン)_CV_小原好美・鬼頭明里・高橋未奈美・高柳知葉.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "よいまちカンターレ",
+      "artist": "コーロまちカド",
+      "has_synced": true,
+      "path": "select/02_よいまちカンターレ_コーロまちカド.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "よいまちカンターレ",
+      "artist": "コーロまちカド(シャミ子・桃・リリス・ミカンCV:小原好美・鬼頭明里・高橋未奈美・高柳知葉)/shami momo(吉田優子・千代田桃CV:小原好美・鬼頭明里)",
+      "has_synced": true,
+      "path": "select/03_よいまちカンターレ_コーロまちカド(シャミ子・桃・リリス・ミカンCV_小原好美・鬼頭明里・高橋未奈美・高柳知葉)_shami_momo(吉田優子・千代田桃CV_小原好美・鬼頭明里).lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "よいまちカンターレ(instrumental)",
+      "artist": "コーロまちカド(シャミ子・桃・リリス・ミカンCV:小原好美・鬼頭明里・高橋未奈美・高柳知葉)/shami momo(吉田優子・千代田桃CV:小原好美・鬼頭明里)",
+      "has_synced": true,
+      "path": "select/04_よいまちカンターレ(instrumental)_コーロまちカド(シャミ子・桃・リリス・ミカンCV_小原好美・鬼頭明里・高橋未奈美・高柳知葉)_shami_momo(吉田優子・千代田桃CV_小原好美・鬼頭明里).lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "よいまちカンターレ",
+      "artist": "コーロまちカド(シャミ子・桃・リリス・ミカンCV:小原好美・鬼頭明里・高橋未奈美・高柳知葉)/shami momo(吉田優子・千代田桃CV:小原好美・鬼頭明里)",
+      "has_synced": true,
+      "path": "select/05_よいまちカンターレ_コーロまちカド(シャミ子・桃・リリス・ミカンCV_小原好美・鬼頭明里・高橋未奈美・高柳知葉)_shami_momo(吉田優子・千代田桃CV_小原好美・鬼頭明里).lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "よいまちカンターレ",
+      "artist": "コーロまちカド / shami momo",
+      "has_synced": true,
+      "path": "select/06_よいまちカンターレ_コーロまちカド___shami_momo.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "よいまちカンターレ (TV size edit)",
+      "artist": "コーロまちカド",
+      "has_synced": false,
+      "path": "select/07_よいまちカンターレ_(TV_size_edit)_コーロまちカド.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "よいまちカンターレ (instrumental)",
+      "artist": "コーロまちカド",
+      "has_synced": true,
+      "path": "select/08_よいまちカンターレ_(instrumental)_コーロまちカド.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "よいまちカンターレ(instrumental)",
+      "artist": "コーロまちカド(シャミ子・桃・リリス・ミカン)/CV:小原好美・鬼頭明里・高橋未奈美・高柳知葉",
+      "has_synced": true,
+      "path": "select/09_よいまちカンターレ(instrumental)_コーロまちカド(シャミ子・桃・リリス・ミカン)_CV_小原好美・鬼頭明里・高橋未奈美・高柳知葉.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "よいまちカンターレ",
+      "artist": "shami momo / コーロまちカド",
+      "has_synced": true,
+      "path": "select/10_よいまちカンターレ_shami_momo___コーロまちカド.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "よいまちカンターレ",
+      "artist": "コーロまちカド",
+      "has_synced": false,
+      "path": "select/pl_01_よいまちカンターレ_コーロまちカド.txt"
+    }
+  ]
+}
